@@ -20,6 +20,8 @@ public class BrewSizeAdvisor {
         else
             System.out.println("Invalid input,give a positive number");
 
+        one litre=1000 millilitre;
+
         sc.close();
     }
 }
